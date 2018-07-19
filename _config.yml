@@ -1,13 +1,13 @@
 title:             Clean Blog
-email:             your-email@example.com
+email:             dstriker@corus360.com
 description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+author:            David Striker
 baseurl:           ""
 url:               "https://strikerdd.github.io/"
 
 # Social Profiles
 twitter_username:  SBootstrap
-github_username:   BlackrockDigital
+github_username:   Strikerdd
 facebook_username: StartBootstrap
 
 # Build settings
